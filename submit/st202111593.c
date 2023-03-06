@@ -1,4 +1,4 @@
-#include "week_1.c"
+#include "week_1.h"
 
 void func() {
 	printf("hello world");
